@@ -1,3 +1,5 @@
+//Unit Tests completed by Mary Szabo
+
 // import necessary react testing library helpers here
 // import the Counter component here
 

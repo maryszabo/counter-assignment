@@ -1,3 +1,5 @@
+//Unit Tests completed by Mary Szabo
+
 // import necessary react testing library helpers here
 import { render, screen, fireEvent, getByTestId } from '@testing-library/react';
 // import the Counter component here
